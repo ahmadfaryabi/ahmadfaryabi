@@ -24,4 +24,5 @@ https://github.com/data1700-v23/oblig-2-ahmadfaryabi
 # Education:
 - OsloMet, Software Engineer, Bachelors degree (Aug. 2022 - Dec. 2025)
 
-- Ahmad Faryabi
+
+Ahmad Faryabi
